@@ -1,0 +1,248 @@
+{
+    "shop": [
+        {
+            "id": 1,
+            "name": "Adjustable Dog Collar",
+            "category": "Accessories",
+            "description": "Durable and adjustable nylon collar for dogs of all sizes.",
+            "price": 12.99,
+            "image": [
+                "https://m.media-amazon.com/images/I/41xDx8r9ylS._AC_.jpg",
+                "https://m.media-amazon.com/images/I/81K1Zf42KrL._AC_SL1500_.jpg",
+                "https://www.winpet.cl/wp-content/uploads/2021/01/winpet-58-1-1.jpg",
+                "https://img.kwcdn.com/product/1e233122c8/9d65159d-b561-40d0-a7bb-eafcfd473107_1000x1000.jpeg?imageView2/2/w/650/q/50/format/webp",
+                "https://img.kwcdn.com/product/1e78ea1584/e0764d67-cffb-474b-814c-5638fe20ec9b_1000x1000.jpeg?imageView2/2/w/650/q/50/format/webp",
+                "https://img.kwcdn.com/product/fancy/market/task30/20f14cc878d5a5ab90f6ce932b245098_1714318981329.jpg?imageView2/2/w/800/q/70"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Padded cat bed",
+            "category": "Furniture",
+            "description": "Soft, padded bed for your cat to rest comfortably.",
+            "price": 24.99,
+            "image": [
+                "https://m.media-amazon.com/images/I/715sDcuWTAL.jpg",
+                "https://m.media-amazon.com/images/I/61UhTP3uDfL._AC_UF1000,1000_QL80_.jpg",
+                "https://m.media-amazon.com/images/I/81jHsRDJNOL._AC_UF894,1000_QL80_DpWeblab_.jpg",
+                "https://img.kwcdn.com/product/fancy/market/task30/cbb1417e85f99103bab3a38c5face26f_1714324177236.jpeg?imageView2/2/w/800/q/70/format/webp",
+                "https://img.kwcdn.com/product/fancy/market/task30/20f14cc878d5a5ab90f6ce932b245098_1714318981329.jpg?imageView2/2/w/800/q/70"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Interactive Bird Toy",
+            "category": "Toys",
+            "description": "Toy with mirror and bells to keep birds entertained in their cage.",
+            "price": 8.49,
+            "image": [
+                "https://img.kwcdn.com/product/1e23311c28/5c8e197c-72e4-46ed-8208-acb9fa3260a1_800x800.jpeg?imageView2/2/w/800/q/70/format/webp",
+                "https://img.kwcdn.com/product/open/2023-10-09/1696829164901-50388d81fd6b4e4a9c7420b14b200a38-goods.jpeg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp",
+                "https://moly.es/3816-large_default/juguete-interactivo-c-sonido-madera-palitos-colore.jpg"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Automatic fish feeder",
+            "category": "Aquarium",
+            "description": "Automatic feeder that dispenses food in precise quantities for aquarium fish.",
+            "price": 19.99,
+            "image": [
+                "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/623992ad-955c-446c-a960-cae5c3253bd5.4f4588039b9fc39bba3d76178f6a83f1.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+                "https://m.media-amazon.com/images/I/61zyQmfVxkL._AC_UF1000,1000_QL80_.jpg",
+                "https://www.tiendanimal.es/dw/image/v2/BDLQ_PRD/on/demandware.static/-/Sites-kiwoko-master-catalog/default/dwaee082c3/images/large/6287482f64fb44218f87f7f97e52d9b9.jpg?sw=528&sh=528"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Brush for long-haired cats",
+            "category": "Brush",
+            "description": "Brush specially designed to detangle and remove dead hair from long-haired cats.",
+            "price": 6.99,
+            "image": [
+                "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1640077532-51B75iqcruL._SL500_.jpg?crop=0.800xw:1xh;center,top&resize=980:*",
+                "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1666273840-51t2mmMwIJL._SL500_.jpg?crop=1.00xw:0.738xh;0,0.262xh&resize=980:*",
+                "https://http2.mlstatic.com/D_NQ_NP_809756-MLA71775753680_092023-O.webp"
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Extendable dog leash",
+            "category": "Accessories",
+            "description": "Extendable leash up to 5 meters to walk dogs comfortably and safely.",
+            "price": 18.99,
+            "image": [
+                "https://img4.dhresource.com/webp/m/0x0/f3/albu/km/z/10/a8836b0b-996c-437f-8784-023ab4f046ae.jpg",
+                "https://s.libertaddigital.com/2021/03/08/correa-extensible-retractil-para-perros-5-metros-ddoxx-11-00721.jpg",
+                "https://www.lidl.es/media/product/0/0/5/0/4/6/3/correa-pequena-para-perros-extensible-con-ledes-zoom--1.jpg"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Cats scraper",
+            "category": "Furniture",
+            "description": "Scratching post with sisal post and platforms so your cat can sharpen its nails and play.",
+            "price": 34.99,
+            "image": [
+                "https://ututui.com/wp/wp-content/uploads/2023/05/Rascador-Producto.jpg",
+                "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/25b2e9f487029ad4b1f7fa1b8a6b561d.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp",
+                "https://m.media-amazon.com/images/I/81VKOEvu7OL._AC_UF1000,1000_QL80_.jpg"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Puppy chew toy",
+            "category": "Toys",
+            "description": "Durable rubber toy for teething puppies.",
+            "price": 7.99,
+            "image": [
+                "https://dojiw2m9tvv09.cloudfront.net/22820/product/aeitpet-mordedor-perro-con-dos-asas-embutido-de-manguera-dummy2289.jpg",
+                "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/c6de9ba3-b951-4bb7-9709-1d53a973dfd1.2bb6ae920b01afe830e36096e2d81626.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+                "https://www.adiestramiento-perros.es/data/productos/z_juguetes-para-perros-cuerda-nudos-107-0103.jpg"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Fish tanks",
+            "category": "Aquarium",
+            "description": "Acrylic fish tanks with automatic LED lights",
+            "price": 29.99,
+            "image": [
+                "https://www.euskaltropik.com/blog/wp-content/uploads/2021/04/pez-encerrado-en-una-pecera.jpg",
+                "https://neptuniaquarium.com/wp-content/uploads/2023/02/51P9ligC81L.jpg",
+                "https://tusamigos.es/9131-large_default/pecera-cilindrica-75-litros.jpg"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Fragrance-free shampoo for dogs",
+            "category": "Care and Hygiene",
+            "description": "Shampoo with a gentle, fragrance-free and sulfate-free formula for dogs' sensitive skin.",
+            "price": 11.49,
+            "image": [
+                "https://static.independent.co.uk/2021/08/23/10/Dog%20shampoos%20copy.jpg",
+                "https://bugalugspetcare.com/wp-content/uploads/2023/04/Oatmeal-Dog-Shampoo-Conditioner-Duo.jpg",
+                "https://www.cessnapetstore.in/pub/media/catalog/product/cache/afe255019165e4447f45946ff95a294a/t/i/tickfree_shampoo_200ml_1.jpg"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Cat Carrier",
+            "category": "Accessories",
+            "description": "Resistant and ventilated carrier to transport cats safely.",
+            "price": 27.99,
+            "image": [
+                "https://www.ferplast.com/cdn/shop/products/1-0180018448_1200x1200.jpg?v=1679422239",
+                "https://img.fruugo.com/product/6/18/795961186_max.jpg",
+                "https://i5.walmartimages.com/seo/LONGRV-Cat-Carrier-Backpack-Small-Dog-Bubble-Bag-for-Small-Dogs-Space-Pet-Carrier-Dog-Hiking-Backpack-Airline-Approved-Travel-Carrier-Pink_f3c42a03-79bc-401c-9619-6a89ad1f6139.79ebae1e5c7ebb648e335960b3aa5756.jpeg"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Tennis ball for dogs",
+            "category": "Toys",
+            "description": "Durable and safe tennis ball to play throw with your dog.",
+            "price": 4.99,
+            "image": [
+                "https://assets.petco.com/petco/image/upload/f_auto,q_auto/2762965-center-1",
+                "https://target.scene7.com/is/image/Target/GUEST_1b9d2dc2-741b-4b58-aadb-7dafd0e10e2e?wid=488&hei=488&fmt=pjpeg",
+                "https://cdn11.bigcommerce.com/s-trks3lo/images/stencil/original/products/5760/325736/ptp-00653__1__76202.1684860036.jpg?c=2"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Reptile terrarium",
+            "category": "Terrariums",
+            "description": "Glass terrarium with mesh lid to keep reptiles in optimal conditions.",
+            "price": 49.99,
+            "image": [
+                "https://m.media-amazon.com/images/I/71bW8+As6wL._AC_SL1500_.jpg",
+                "https://m.media-amazon.com/images/I/71R5DGgOdiL._AC_SL1500_.jpg",
+                "https://image.chewy.com/is/image/catalog/891470_MAIN._AC_SL600_V1706909656_.jpg"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Cat litter box",
+            "category": "Furniture",
+            "description": "Litter box with sieve to maintain hygiene and cleanliness in the cat area.",
+            "price": 22.99,
+            "image": [
+                "https://www.petsense.com/cdn/shop/products/31847-1524582173_2000x.jpg?v=1571450783",
+                "https://i5.walmartimages.com/seo/PetSafe-ScoopFree-Crystal-Classic-Self-Cleaning-Cat-Litter-Box-Unbeatable-Odor-Control-Gray_ab0d3a53-baac-47cb-9809-07e2c833f25e.b46070a107f2b4c172f8fab1664d060c.jpeg",
+                "https://s7cdn.spectrumbrands.com/~/media/Pet/NaturesMiracle/Images/Products/New%20Product/P820281_NM_LitterBox3ct_02_Front.jpg?mw=450"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Automatic dog feeder",
+            "category": "Accessories",
+            "description": "Automatic feeder with schedule programming to feed your dog when you are not at home.",
+            "price": 39.99,
+            "image": [
+                "https://www.sgsmartpaw.com/cdn/shop/products/newpremiumfeeder2_54fbfb3f-5feb-4d7b-a219-40d71d78b4f3.png?v=1640585395&width=2048",
+                "https://i5.walmartimages.com/asr/a650b74d-b19d-4733-8252-848407d6be26.e76435961fa6613c17c6340e15a6eb58.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+                "https://www.ipettie.com/cdn/shop/products/1_95a83a2c-7e17-4682-8f9e-a9e9b717bdbb_900x.jpg?v=1648108277"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Decorative waterfall for aquarium",
+            "category": "Aquarium",
+            "description": "Decorative waterfall that creates a natural environment in the aquarium and provides additional oxygen.",
+            "price": 32.99,
+            "image": [
+                "https://s7d2.scene7.com/is/image/PetSmart/5071398",
+                "https://images-na.ssl-images-amazon.com/images/I/81CceN9LjQL._AC_UL600_SR600,600_.jpg"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Dog toothbrush",
+            "category": "Care and Hygiene",
+            "description": "Toothbrush with soft bristles to brush your dog's teeth and prevent bad breath.",
+            "price": 9.99,
+            "image": [
+                "https://cdn.vetuk.co.uk/v1/c/1200x1200/vetuk-products/65b02fef34bed64bf06c49b48d60058e.jpg",
+                "https://img.fruugo.com/product/4/35/263527354_max.jpg",
+                "https://img.kwcdn.com/product/open/2023-05-17/1684339477985-f9e8ed11f9ad45af9111cfcee7a96722-goods.jpeg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Outdoor dog kennel",
+            "category": "Furniture",
+            "description": "Weather-resistant kennel so your dog can rest comfortably outside.",
+            "price": 79.99,
+            "image": [
+                "https://www.therange.co.uk/media/1/0/1682934071_12_5067.jpg",
+                "https://omnichannelimages.global.ssl.fastly.net/prod/dsv/bro/BRO-BR-PET-KN-FUN-GYWH-NO_900_1.JPG?width=590&height=767&quality=95&format=webp",
+                "https://skinners-sheds.com/wp-content/uploads/2021/04/Outdoor-Dog-Kennel.jpg"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Large bird cage",
+            "category": "Terrariums",
+            "description": "Spacious cage with perches and feeders for medium to large birds.",
+            "price": 59.99,
+            "image": [
+                "https://cdn11.bigcommerce.com/s-9hte4zottw/images/stencil/1280x1280/products/819/2351/950671A__93043.1662735227.jpg?c=1",
+                "https://windycityparrot.com/wp-content/uploads/048081031551D-113-th-3-600x600.jpg",
+                "https://m.media-amazon.com/images/I/81fR2MbYqGL._AC_UF1000,1000_QL80_.jpg"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Cat toy mouse",
+            "category": "Toys",
+            "description": "Stuffed mouse with catnip to stimulate your cat's hunting instinct.",
+            "price": 3.49,
+            "image": [
+                "https://i.ebayimg.com/images/g/He0AAOSwx6pdyu3o/s-l1200.webp",
+                "https://www.rover.com/blog/wp-content/uploads/Frisco.jpg",
+                "https://www.thepetpantry.com/wp-content/uploads/2023/07/Chiwava-cat-toy-mouse-rattle.jpg"
+            ]
+        }
+    ]
+}
